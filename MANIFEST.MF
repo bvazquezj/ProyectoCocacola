@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: Brandon Vazquez
+Main-Class: Bienvenida
+X-COMMENT: Gracias por descargar mi app
+
